@@ -44,7 +44,7 @@ Now, create an Animator to manage all of the animations in this UIViewController
 ```objc
 @property (nonatomic, strong) IFTTTAnimator *animator;
 
-// later...
+// later..
 
 self.animator = [IFTTTAnimator new];
 ```
