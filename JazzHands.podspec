@@ -22,3 +22,4 @@ Pod::Spec.new do |s|
   s.social_media_url = 'https://twitter.com/ifttt'
   s.compiler_flags = "-fmodules"
 end
+//////////////////////////////////////////////////////////////////////
