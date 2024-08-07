@@ -16,10 +16,11 @@ Pod::Spec.new do |s|
     :type => 'MIT',
     :file => 'LICENSE'
   }
+////change
   s.frameworks   = 'Foundation', 'UIKit', 'CoreGraphics', 'QuartzCore'
   s.source_files = 'JazzHands/*.{h,m}'
   s.description  = "Jazz Hands is a keyframe animation framework by IFTTT. Move UIViews around the screen based on UIScrollView input, KVO, or anything really."
   s.social_media_url = 'https://twitter.com/ifttt'
   s.compiler_flags = "-fmodules"
 end
-//////////////////////////////////////////////////////////////////////
+
